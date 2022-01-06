@@ -1,0 +1,199 @@
+[
+    {
+        "cocktail": "Gauguin",
+        "ingredient": [
+            "Light Rum",
+            "Passion Fruit Syrup",
+            "Lemon Juice",
+            "Lime Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Fort Lauderdale",
+        "ingredient": [
+            "Light Rum",
+            "Sweet Vermouth",
+            "Juice of Orange",
+            "Juice of a Lime"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Apple Pie",
+        "ingredient": [
+            "Apple schnapps",
+            "Cinnamon schnapps",
+            "Apple slice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Cuban Cocktail No. 1",
+        "ingredient": [
+            "Juice of a Lime",
+            "Powdered Sugar",
+            "Light Rum"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Cool Carlos",
+        "ingredient": [
+            "Dark rum",
+            "Cranberry Juice",
+            "Pineapple Juice",
+            "Orange curacao",
+            "Sour Mix"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "John Collins",
+        "ingredient": [
+            "Bourbon whiskey",
+            "Fresh lemon juice",
+            "Simple Syrup",
+            "Soda water",
+            "Orange and lemon wheels, maraschino cherry"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Cherry Rum",
+        "ingredient": [
+            "Light Rum",
+            "cherry-flavored brandy",
+            "Light cream"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Casa Blanca",
+        "ingredient": [
+            "Light Rum",
+            "Lime Juice",
+            "Triple Sec",
+            "Maraschino"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Caribbean Champagne",
+        "ingredient": [
+            "Light Rum",
+            "Creme de banana",
+            "Chilled Champagne"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Amber Amour",
+        "ingredient": [
+            "Amaretto",
+            "Fresh lemon juice",
+            "Simple Syrup",
+            "Soda water"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "The Joe Lewis",
+        "ingredient": [
+            "Scotch Whiskey",
+            "Fresh carrot juice",
+            "Tawny port",
+            "Fresh lemon juice",
+            "Agave nectar"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Bacardi Cocktail",
+        "ingredient": [
+            "Bacardi Rum",
+            "Juice of a Lime",
+            "Grenadine"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Apple Pie No. 1",
+        "ingredient": [
+            "Light Rum",
+            "Sweet Vermouth",
+            "Apple Brandy",
+            "Grenadine",
+            "Lemon Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Yolanda",
+        "ingredient": [
+            "Brandy",
+            "Gin",
+            "Anisette",
+            "Sweet Vermouth",
+            "Grenadine"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Yellow Rattler",
+        "ingredient": [
+            "Gin",
+            "Orange Juice",
+            "Dry Vermouth",
+            "Sweet Vermouth"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Why Not?",
+        "ingredient": [
+            "Gin",
+            "Apricot Flavored Brandy",
+            "Dry Vermouth",
+            "Lemon Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Amaretto Stinger",
+        "ingredient": [
+            "Amaretto",
+            "White creme de menthe"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "What The Hell",
+        "ingredient": [
+            "Gin",
+            "Dry Vermouth",
+            "Apricot Flavored Brandy",
+            "Lemon Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Webster Cocktail",
+        "ingredient": [
+            "Juice of a Lime",
+            "Apricot Flavored Brandy",
+            "Dry Vermouth",
+            "Gin"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Union Jack Cocktail",
+        "ingredient": [
+            "Sloe gin",
+            "Gin",
+            "Grenadine"
+        ],
+        "rating": 0
+    }
+]
