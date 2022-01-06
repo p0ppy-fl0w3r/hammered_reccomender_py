@@ -7,7 +7,7 @@
             "Lemon Juice",
             "Lime Juice"
         ],
-        "rating": 0
+        "rating": 8
     },
     {
         "cocktail": "Fort Lauderdale",
@@ -17,7 +17,7 @@
             "Juice of Orange",
             "Juice of a Lime"
         ],
-        "rating": 0
+        "rating": 7
     },
     {
         "cocktail": "Apple Pie",
@@ -26,7 +26,7 @@
             "Cinnamon schnapps",
             "Apple slice"
         ],
-        "rating": 0
+        "rating": 6
     },
     {
         "cocktail": "Cuban Cocktail No. 1",
@@ -35,7 +35,7 @@
             "Powdered Sugar",
             "Light Rum"
         ],
-        "rating": 0
+        "rating": 7
     },
     {
         "cocktail": "Cool Carlos",
@@ -46,7 +46,7 @@
             "Orange curacao",
             "Sour Mix"
         ],
-        "rating": 0
+        "rating": 8
     },
     {
         "cocktail": "John Collins",
@@ -57,7 +57,7 @@
             "Soda water",
             "Orange and lemon wheels, maraschino cherry"
         ],
-        "rating": 0
+        "rating": 4
     },
     {
         "cocktail": "Cherry Rum",
@@ -66,7 +66,7 @@
             "cherry-flavored brandy",
             "Light cream"
         ],
-        "rating": 0
+        "rating": 7
     },
     {
         "cocktail": "Casa Blanca",
@@ -76,7 +76,7 @@
             "Triple Sec",
             "Maraschino"
         ],
-        "rating": 0
+        "rating": 7
     },
     {
         "cocktail": "Caribbean Champagne",
@@ -85,7 +85,7 @@
             "Creme de banana",
             "Chilled Champagne"
         ],
-        "rating": 0
+        "rating": 6
     },
     {
         "cocktail": "Amber Amour",
@@ -95,7 +95,7 @@
             "Simple Syrup",
             "Soda water"
         ],
-        "rating": 0
+        "rating": 5
     },
     {
         "cocktail": "The Joe Lewis",
@@ -106,7 +106,7 @@
             "Fresh lemon juice",
             "Agave nectar"
         ],
-        "rating": 0
+        "rating": 5
     },
     {
         "cocktail": "Bacardi Cocktail",
@@ -115,7 +115,7 @@
             "Juice of a Lime",
             "Grenadine"
         ],
-        "rating": 0
+        "rating": 9
     },
     {
         "cocktail": "Apple Pie No. 1",
@@ -126,7 +126,7 @@
             "Grenadine",
             "Lemon Juice"
         ],
-        "rating": 0
+        "rating": 7
     },
     {
         "cocktail": "Yolanda",
@@ -137,7 +137,7 @@
             "Sweet Vermouth",
             "Grenadine"
         ],
-        "rating": 0
+        "rating": 8
     },
     {
         "cocktail": "Yellow Rattler",
@@ -147,7 +147,7 @@
             "Dry Vermouth",
             "Sweet Vermouth"
         ],
-        "rating": 0
+        "rating": 4
     },
     {
         "cocktail": "Why Not?",
@@ -157,7 +157,7 @@
             "Dry Vermouth",
             "Lemon Juice"
         ],
-        "rating": 0
+        "rating": 4
     },
     {
         "cocktail": "Amaretto Stinger",
@@ -165,7 +165,7 @@
             "Amaretto",
             "White creme de menthe"
         ],
-        "rating": 0
+        "rating": 2
     },
     {
         "cocktail": "What The Hell",
@@ -175,7 +175,7 @@
             "Apricot Flavored Brandy",
             "Lemon Juice"
         ],
-        "rating": 0
+        "rating": 4
     },
     {
         "cocktail": "Webster Cocktail",
@@ -185,7 +185,7 @@
             "Dry Vermouth",
             "Gin"
         ],
-        "rating": 0
+        "rating": 4
     },
     {
         "cocktail": "Union Jack Cocktail",
@@ -194,6 +194,6 @@
             "Gin",
             "Grenadine"
         ],
-        "rating": 0
+        "rating": 4
     }
 ]
