@@ -1,0 +1,194 @@
+[
+    {
+        "cocktail": "Jocose Julep",
+        "ingredient": [
+            "Bourbon whiskey",
+            "Green creme de menthe",
+            "Fresh Lime Juice",
+            "Simple Syrup",
+            "Fresh mint leaves",
+            "Soda water"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Trinity Cocktail",
+        "ingredient": [
+            "Sweet Vermouth",
+            "Dry Vermouth",
+            "Gin"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Three Stripes Cocktail",
+        "ingredient": [
+            "Gin",
+            "Dry Vermouth",
+            "Orange Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Tanq-A-Rita",
+        "ingredient": [
+            "Tanqueray gin",
+            "Margarita Mix",
+            "Triple Sec"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Amaretto Sour",
+        "ingredient": [
+            "Amaretto",
+            "Fresh lemon juice",
+            "Simple Syrup",
+            "Orange half-wheel"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Tailspin Cocktail",
+        "ingredient": [
+            "Gin",
+            "Sweet Vermouth",
+            "Green Chartreuse",
+            "Orange Bitters"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Sweet Patootie Cocktail",
+        "ingredient": [
+            "Gin",
+            "Triple Sec",
+            "Orange Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Sunshine Cocktail",
+        "ingredient": [
+            "Sweet Vermouth",
+            "Gin",
+            "Bitters"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Spring Feeling Cocktail",
+        "ingredient": [
+            "Lemon Juice",
+            "Green Chartreuse",
+            "Gin"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Sphinx Cocktail",
+        "ingredient": [
+            "Gin",
+            "Sweet Vermouth",
+            "Dry Vermouth"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Jitterbug Sour",
+        "ingredient": [
+            "Straight rye whiskey",
+            "Benedictine",
+            "Fresh lemon juice",
+            "Honey Syrup",
+            "Egg White",
+            "Angostura Bitters"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Southern Gin Cocktail",
+        "ingredient": [
+            "Gin",
+            "Orange Bitters",
+            "Triple Sec"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Society Cocktail",
+        "ingredient": [
+            "Gin",
+            "Dry Vermouth",
+            "Grenadine"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Snyder",
+        "ingredient": [
+            "Gin",
+            "Dry Vermouth",
+            "Triple Sec"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Smiler Cocktail",
+        "ingredient": [
+            "Sweet Vermouth",
+            "Dry Vermouth",
+            "Gin",
+            "Bitters",
+            "Orange Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Smile Cocktail",
+        "ingredient": [
+            "Grenadine",
+            "Gin",
+            "Lemon Juice"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Amaretto Rose",
+        "ingredient": [
+            "Amaretto",
+            "Fresh lemon juice",
+            "Simple Syrup",
+            "Soda water"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Sand-Martin Cocktail",
+        "ingredient": [
+            "Green Chartreuse",
+            "Sweet Vermouth",
+            "Gin"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Irish Whiskey Highball",
+        "ingredient": [
+            "Irish Whiskey",
+            "Ginger ale or soda water",
+            "Lemon twist (optional)"
+        ],
+        "rating": 0
+    },
+    {
+        "cocktail": "Japanese",
+        "ingredient": [
+            "Brandy",
+            "orgeat or almond syrup",
+            "Angostura Bitters",
+            "Lemon twist"
+        ],
+        "rating": 0
+    }
+]

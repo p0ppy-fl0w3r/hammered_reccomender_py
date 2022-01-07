@@ -1,5 +1,6 @@
 # File names
-DATA_FILE = "data.json"
+USER_DATA_FILE = "data.json"
+SAMPLE_DATA_FILE = "sample_data.json"
 
 # Json key names
 COCKTAIL = "cocktail"
