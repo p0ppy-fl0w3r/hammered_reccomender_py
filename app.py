@@ -40,22 +40,13 @@ def general_recommendation():
         weighted_sample_matrix[cocktail.cocktail] = get_weighted_rating(
             ingredient_matrix, weighted_ingredient_dict)
 
-    recommendation = sorted(weighted_sample_matrix.items(), key=lambda c: c[1], reverse=True)[:4]
-    
+    # Sort the cocktails by the highest weighted rating and select the highest 4
+    recommendation = sorted(weighted_sample_matrix.items(),
+                            key=lambda c: c[1], reverse=True)[:4]
+
     print("Based on your previous interactions, you'll probably like the following:\n")
     for i in enumerate(recommendation, start=1):
         print(f"\t{i[0]}. {i[1][0]}")
-
-
-def get_weighted_rating(ingredient_matrix, weighted_ingredient_matrix):
-    total_weighted_rating = 0
-
-    for ingredient_value, weighted_value in zip(ingredient_matrix,
-                                                weighted_ingredient_matrix.values()):
-        if ingredient_value > 0:
-            total_weighted_rating += weighted_value
-
-    return total_weighted_rating
 
 
 def get_rating_list(sample, ing_set, is_weighted):
@@ -80,6 +71,17 @@ def get_rating_list(sample, ing_set, is_weighted):
         rating_ingredient_list.append(contains_ingredient)
 
     return rating_ingredient_list
+
+
+def get_weighted_rating(ingredient_matrix, weighted_ingredient_matrix):
+    total_weighted_rating = 0
+
+    for ingredient_value, weighted_value in zip(ingredient_matrix,
+                                                weighted_ingredient_matrix.values()):
+        if ingredient_value > 0:
+            total_weighted_rating += weighted_value
+
+    return total_weighted_rating
 
 
 general_recommendation()
