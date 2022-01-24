@@ -7,7 +7,7 @@ from constants import USER_DATA_FILE, SAMPLE_DATA_FILE
 user_cocktail = CocktailData.load_data(USER_DATA_FILE)
 
 
-def general_recommendation():
+def generate_recommendation():
     # Sort the list by highest rating.
     user_cocktail.sort(key=lambda c: c.rating, reverse=True)
 
@@ -33,15 +33,15 @@ def general_recommendation():
         weighted_ingredient_dict[ingredient] = init_rating/sum_rating
 
     sample_data = CocktailData.load_data(SAMPLE_DATA_FILE)
-    sample_ingredient_matrix = get_rating_list(sample_data, ing_set, False)
+    raw_user_profile = get_rating_list(sample_data, ing_set, False)
 
-    weighted_sample_matrix = dict()
-    for ingredient_matrix, cocktail in zip(sample_ingredient_matrix, sample_data):
-        weighted_sample_matrix[cocktail.cocktail] = get_weighted_rating(
+    user_profile = dict()
+    for ingredient_matrix, cocktail in zip(raw_user_profile, sample_data):
+        user_profile[cocktail.cocktail] = get_weighted_rating(
             ingredient_matrix, weighted_ingredient_dict)
 
     # Sort the cocktails by the highest weighted rating and select the highest 4
-    recommendation = sorted(weighted_sample_matrix.items(),
+    recommendation = sorted(user_profile.items(),
                             key=lambda c: c[1], reverse=True)[:4]
 
     print("Based on your previous interactions, you'll probably like the following:\n")
@@ -74,6 +74,16 @@ def get_rating_list(sample, ing_set, is_weighted):
 
 
 def get_weighted_rating(ingredient_matrix, weighted_ingredient_matrix):
+    """
+    Creates a weighted rating using the given arguments.
+
+    Args:
+        ingredient_matrix (List)
+        weighted_ingredient_matrix (List)
+
+    Returns:
+        Double: Weighted Rating
+    """
     total_weighted_rating = 0
 
     for ingredient_value, weighted_value in zip(ingredient_matrix,
@@ -84,4 +94,4 @@ def get_weighted_rating(ingredient_matrix, weighted_ingredient_matrix):
     return total_weighted_rating
 
 
-general_recommendation()
+generate_recommendation()
